@@ -2,6 +2,6 @@
 
 module.exports = function IndexModel() {
     return {
-        name: 'index text fabian'
+        name: 'index text'
     };
 };
