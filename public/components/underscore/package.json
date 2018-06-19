@@ -2,7 +2,11 @@
   "_args": [
     [
       "underscore@1.7.0",
+<<<<<<< HEAD
       "C:\\Users\\Fabian\\Documents\\GitHub\\backEndAppu"
+=======
+      "x:\\UCEM\\TESIS\\GitHub\\backEndAppu"
+>>>>>>> eccee8075b5cc69d88ac84fdcaef1d148aefae4b
     ]
   ],
   "_development": true,
@@ -27,7 +31,11 @@
   ],
   "_resolved": "https://registry.npmjs.org/underscore/-/underscore-1.7.0.tgz",
   "_spec": "1.7.0",
+<<<<<<< HEAD
   "_where": "C:\\Users\\Fabian\\Documents\\GitHub\\backEndAppu",
+=======
+  "_where": "x:\\UCEM\\TESIS\\GitHub\\backEndAppu",
+>>>>>>> eccee8075b5cc69d88ac84fdcaef1d148aefae4b
   "author": {
     "name": "Jeremy Ashkenas",
     "email": "jeremy@documentcloud.org"

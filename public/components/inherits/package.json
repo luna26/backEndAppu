@@ -2,7 +2,11 @@
   "_args": [
     [
       "inherits@2.0.3",
+<<<<<<< HEAD
       "C:\\Users\\Fabian\\Documents\\GitHub\\backEndAppu"
+=======
+      "x:\\UCEM\\TESIS\\GitHub\\backEndAppu"
+>>>>>>> eccee8075b5cc69d88ac84fdcaef1d148aefae4b
     ]
   ],
   "_from": "inherits@2.0.3",
@@ -41,7 +45,11 @@
   ],
   "_resolved": "https://registry.npmjs.org/inherits/-/inherits-2.0.3.tgz",
   "_spec": "2.0.3",
+<<<<<<< HEAD
   "_where": "C:\\Users\\Fabian\\Documents\\GitHub\\backEndAppu",
+=======
+  "_where": "x:\\UCEM\\TESIS\\GitHub\\backEndAppu",
+>>>>>>> eccee8075b5cc69d88ac84fdcaef1d148aefae4b
   "browser": "./inherits_browser.js",
   "bugs": {
     "url": "https://github.com/isaacs/inherits/issues"

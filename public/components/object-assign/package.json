@@ -2,7 +2,11 @@
   "_args": [
     [
       "object-assign@4.1.1",
+<<<<<<< HEAD
       "C:\\Users\\Fabian\\Documents\\GitHub\\backEndAppu"
+=======
+      "x:\\UCEM\\TESIS\\GitHub\\backEndAppu"
+>>>>>>> eccee8075b5cc69d88ac84fdcaef1d148aefae4b
     ]
   ],
   "_from": "object-assign@4.1.1",
@@ -30,7 +34,11 @@
   ],
   "_resolved": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz",
   "_spec": "4.1.1",
+<<<<<<< HEAD
   "_where": "C:\\Users\\Fabian\\Documents\\GitHub\\backEndAppu",
+=======
+  "_where": "x:\\UCEM\\TESIS\\GitHub\\backEndAppu",
+>>>>>>> eccee8075b5cc69d88ac84fdcaef1d148aefae4b
   "author": {
     "name": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",

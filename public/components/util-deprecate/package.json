@@ -2,7 +2,11 @@
   "_args": [
     [
       "util-deprecate@1.0.2",
+<<<<<<< HEAD
       "C:\\Users\\Fabian\\Documents\\GitHub\\backEndAppu"
+=======
+      "x:\\UCEM\\TESIS\\GitHub\\backEndAppu"
+>>>>>>> eccee8075b5cc69d88ac84fdcaef1d148aefae4b
     ]
   ],
   "_from": "util-deprecate@1.0.2",
@@ -26,7 +30,11 @@
   ],
   "_resolved": "https://registry.npmjs.org/util-deprecate/-/util-deprecate-1.0.2.tgz",
   "_spec": "1.0.2",
+<<<<<<< HEAD
   "_where": "C:\\Users\\Fabian\\Documents\\GitHub\\backEndAppu",
+=======
+  "_where": "x:\\UCEM\\TESIS\\GitHub\\backEndAppu",
+>>>>>>> eccee8075b5cc69d88ac84fdcaef1d148aefae4b
   "author": {
     "name": "Nathan Rajlich",
     "email": "nathan@tootallnate.net",

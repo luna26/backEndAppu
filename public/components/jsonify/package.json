@@ -2,7 +2,11 @@
   "_args": [
     [
       "jsonify@0.0.0",
+<<<<<<< HEAD
       "C:\\Users\\Fabian\\Documents\\GitHub\\backEndAppu"
+=======
+      "x:\\UCEM\\TESIS\\GitHub\\backEndAppu"
+>>>>>>> eccee8075b5cc69d88ac84fdcaef1d148aefae4b
     ]
   ],
   "_from": "jsonify@0.0.0",
@@ -27,7 +31,11 @@
   ],
   "_resolved": "https://registry.npmjs.org/jsonify/-/jsonify-0.0.0.tgz",
   "_spec": "0.0.0",
+<<<<<<< HEAD
   "_where": "C:\\Users\\Fabian\\Documents\\GitHub\\backEndAppu",
+=======
+  "_where": "x:\\UCEM\\TESIS\\GitHub\\backEndAppu",
+>>>>>>> eccee8075b5cc69d88ac84fdcaef1d148aefae4b
   "author": {
     "name": "Douglas Crockford",
     "url": "http://crockford.com/"

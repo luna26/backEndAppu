@@ -2,7 +2,11 @@
   "_args": [
     [
       "isarray@1.0.0",
+<<<<<<< HEAD
       "C:\\Users\\Fabian\\Documents\\GitHub\\backEndAppu"
+=======
+      "x:\\UCEM\\TESIS\\GitHub\\backEndAppu"
+>>>>>>> eccee8075b5cc69d88ac84fdcaef1d148aefae4b
     ]
   ],
   "_from": "isarray@1.0.0",
@@ -26,7 +30,11 @@
   ],
   "_resolved": "https://registry.npmjs.org/isarray/-/isarray-1.0.0.tgz",
   "_spec": "1.0.0",
+<<<<<<< HEAD
   "_where": "C:\\Users\\Fabian\\Documents\\GitHub\\backEndAppu",
+=======
+  "_where": "x:\\UCEM\\TESIS\\GitHub\\backEndAppu",
+>>>>>>> eccee8075b5cc69d88ac84fdcaef1d148aefae4b
   "author": {
     "name": "Julian Gruber",
     "email": "mail@juliangruber.com",
